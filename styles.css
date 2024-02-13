@@ -142,12 +142,12 @@
   -ms-transform: rotatey(-80deg);
   transform: rotatey(-80deg);
 }
-/* close
+
 p {
   font-size: 20px;
   font-weight: bolder;
 }
-*/
+
 /* Hide the carousel text when the screen is less than 600 pixels wide */
 @media (max-width: 600px) {
   .carousel-caption {
