@@ -7,6 +7,7 @@
     margin-bottom: 0;
     border-radius: 0;
     border-radius: 26px;
+    font-size: 20px;
     font-family: Courier New, Courier, monospace;
     box-shadow: inset 47px -47px 29px #3d3d3d,
             inset -47px 47px 29px #cdcdcd;
@@ -52,6 +53,18 @@
     -webkit-transition: 100ms;
     transition: 100ms;
   }
+
+  /* This are my Controls 
+.indicator {
+    display: inline-flex;
+    list-style: none;
+    height: 120px;
+    width: 100%;
+    padding-top: 40px;
+    font-family: Poppins, sans-serif;
+    justify-content: center;
+}
+*/
    
   
   /* Add a gray background color and some padding to the footer */
