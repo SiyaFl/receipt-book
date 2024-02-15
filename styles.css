@@ -91,7 +91,7 @@ Css*/
     margin: auto;
     min-height:200px;
     background-position: 0%;
-    border-radius: 71px;
+    border: 71px;
     box-shadow:  42px 42px 84px #3f3f3f,
              -42px -42px 84px #c1c1c1;
 }
