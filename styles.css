@@ -281,6 +281,14 @@ h5 {
   line-height: 1.4;
 }
 
+ .media-container {
+  font-family: Poppins, sans-serif;
+  border-radius: 24px;
+  background: #9f9f9f;
+  box-shadow: inset -31px 31px 61px #575757,
+            inset 31px -31px 61px #e7e7e7;
+ }
+
 
 /* Hide the carousel text when the screen is less than 600 pixels wide */
 @media (max-width: 600px) {
