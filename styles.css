@@ -286,7 +286,22 @@ box-shadow: inset -31px 31px 61px #575757,
             inset 31px -31px 61px #e7e7e7;
 font-family: Courier New, Courier, monospace;
 height: max-content;
+animation-name: pulse;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+animation-direction: alternate;
  }
+
+ @keyframes pulse {
+  0% {
+    background-color: inset -31px 31px 61px #575757,
+                      inset 31px -31px 61px #e7e7e7;
+  }
+   100%{ 
+    background-color:  31px -31px 61px #e7e7e7;
+   }
+ }
+
  .col-sm-6{
   text-overflow: clip;
  }
