@@ -95,6 +95,7 @@ Css*/
 /* this is my Row*/
 .book {
   position: relative;
+  align-items: stretch;
   border-radius: 10px;
   width: 220px;
   height: 300px;
