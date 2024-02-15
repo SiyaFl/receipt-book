@@ -8,8 +8,10 @@ Css*/
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Oxygen&family=Roboto+Slab:wght@300&family=Sevillana&display=swap');
  
 .body{
-    margin: auto;
-    background-color: #f2f2f2;
+    margin: 0%;
+    height: 100px;
+    width: 100px;
+    background: linear-gradient(208deg, rgba(0, 0, 0, 0.298), rgba(0, 0, 0, 0.46));     
  }
  
  /* Remove the navbar's default margin-bottom and rounded borders */ 
