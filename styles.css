@@ -479,6 +479,7 @@ animation-direction: alternate;
   position: relative;
   box-shadow: #604b4a30 0px 70px 30px -50px;
   transition: all 0.5s ease-in-out;
+  margin: auto;
 }
 
 .mail-card .mail {
