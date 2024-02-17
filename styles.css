@@ -396,9 +396,9 @@ animation-direction: alternate;
 /* Index page---Ends here*/
 
 /*Contact page Starts here*/
-
 .team {
   height: 50%;
+  width: 25%;
   background: lightgrey;
   background-color: #4158D0;
   background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
@@ -407,6 +407,7 @@ animation-direction: alternate;
   padding: 1rem;
   box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
   transition: 0.5s ease-in-out;
+ 
 
 }
 
@@ -468,6 +469,7 @@ animation-direction: alternate;
 }
 
 /* About page */
+
 .mail-card {
   width: 280px;
   height: 280px;
